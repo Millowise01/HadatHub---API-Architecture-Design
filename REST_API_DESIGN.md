@@ -423,12 +423,6 @@ All error responses follow this structure:
 
 ---
 
-## AI Usage Statement
-
-AI tools (Claude) were used to assist with Markdown table formatting, ensuring consistent structure across endpoint documentation tables, and checking ISO standard references (ISO 8601 for dates, ISO 4217 for currency codes). All business logic, resource design decisions, endpoint specifications, and architectural rationale are original work based on analysis of the assignment requirements and event management domain knowledge.
-
----
-
 **Document Version**: 1.0  
 **Last Updated**: January 2026  
 **Author**: Lead API Architect, HadatHub
